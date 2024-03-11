@@ -1,2 +1,3 @@
 # Car-Price-Prediction
-Research conducted on cars sold in the California car market to predict used car prices
+Research conducted on cars sold in the California car market to predict used car prices. Data was collected from Kaggle's US Used Cars Dataset and filtered in site so data download would be manageable. This group research project was part of graduate level coursework in which the desired goal was to apply data mining techniques (supervised and unsupervised learning, feature engineering, machine learning algorithms, and ensemble model implementation) to create and solve a mock business problem. The car price prediction model is intended to be utilized by a car dealership trying to break into the California market.
+
